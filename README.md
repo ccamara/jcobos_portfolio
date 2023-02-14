@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b777abc3-e29c-4b6b-9ef3-91110ac60dd4/deploy-status)](https://app.netlify.com/sites/jcobos/deploys)
+
+Web de Javier Cobos, realizada con [Hugo](https://gohugo.io) y [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
+
 # [Hugo Portfolio Theme](https://github.com/wowchemy/starter-hugo-portfolio-theme)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
